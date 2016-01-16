@@ -14,8 +14,7 @@ the code as part of your assignment but as a usefull reference.
 
     1.- Make sure the system has the 'gcc compiler' and 'make'.
     
-    2.- From the Linux terminal execute the following commands:
-        $ cd assignment1
+    2.- From the Linux terminal execute the following commands in the repository's root directory:
         $ make
 
 ### Running the programs:
