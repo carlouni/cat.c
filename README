@@ -1,3 +1,15 @@
+This is a simplified version of the cat program. It should be able to compile on Linux Debian and derivatives.
+It may also compile on other systems as I tried to comply with the C standards.
+
+Used as reference and for inspiration the links below and other sources from the GNU project. However, I believe
+my version is easier to understand.
+
+http://git.savannah.gnu.org/cgit/coreutils.git/tree/src/cat.c
+http://www.opensource.apple.com/source/text_cmds/text_cmds-71/cat/cat.c
+
+Obs. This program has been done as part of an assignment at Griffith University - Australia thus be aware not to use
+the code as part of your assignment but as a usefull reference.
+
 ### Building executables on Linux:
 
     1.- Make sure the system has the 'gcc compiler' and 'make'.
